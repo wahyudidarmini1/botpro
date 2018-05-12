@@ -14,46 +14,46 @@ from googletrans import Translator
 
 kr1 = KRIS.LINE()
 #kr1.login(qr=True)
-kr1.login(token="")#1
+kr1.login(token="EsRLc1tyPho3fbz6HTn8.BQIP++PfVBkYt2USSm1tMa.4SUALoprItQg5uhUKsJFlffZU5nhrTnJSz9WJ3JnoiI=")#1
 kr1.loginResult()
 
 kr2 = KRIS.LINE()
 #kr2.login(qr=True)
-kr2.login(token="")#2
+kr2.login(token="EsJv1fGZx4disyWvuTN4./0DOo/10A+PUJG8iHA76Pa.1npBTzVj3Kczdu0BWIvfbckntJZBf3Bfs/8s2yYBnhQ=")#2
 kr2.loginResult()
 
 kr3 = KRIS.LINE()
 #kr3.login(qr=True)
-kr3.login(token="")#3 
+kr3.login(token="EsmjYOcUje7RV6dI39J4.bOiJimUzjLhiapSWdVjeva.d6m5po3UUgBrjZChgVI/L/LRESnnC+sf5Jy47LCwB24=")#3 
 kr3.loginResult()
 
 kr4 = KRIS.LINE()
 #kr4.login(qr=True)
-kr4.login(token="")#4 
+kr4.login(token="Esq8RW4xANugRfKszg5b.DQKC4akNYSJx6AqIuzyS6W.VSws7+stcGvRZBeQVa2VwJciTp2RKzJksT8HkDAs5nc=")#4 
 kr4.loginResult()
 
 kr5 = KRIS.LINE()
 #kr5.login(qr=True)
-kr5.login(token="")#5
+kr5.login(token="EsTE3qIejwkGyC2uFxb5.s0GaOrjP6Vfn98NxODhvLq.4tzMdMQRgV7wm2NL9o+rYH11dHIw1JrVAywWLaOhGEg=")#5
 kr5.loginResult()
 
-#kr6 = KRIS.LINE()
-#kr6.login(qr=True)
-#kr6.login(token="")#satpam
-#kr6.loginResult()
+kr6 = KRIS.LINE()
+kr6.login(qr=True)
+kr6.login(token="EsstGdXPGCUl7bnT3ee1.hSPlQK0sOlldo8W2iFcJWq.KGw/KYqp+kMEBKjHebt76UibNG+yxnJgBWQvQ7bQ9OM=")#satpam
+kr6.loginResult()
 
 kr6 = kr5
 
-print "╔═════════════════════════\n║╔════════════════════════\n║╠❂➣ KRIS BERHASIL LOGIN\n║╚════════════════════════\n╚═════════════════════════"
+print "╔═════════════════════════\n║╔════════════════════════\n║╠❂➣ YUDI BERHASIL LOGIN\n║╚════════════════════════\n╚═════════════════════════"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpmsg ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣facebook
@@ -91,10 +91,10 @@ helpmsg ="""
 
 keymsg ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣keypro
@@ -108,10 +108,10 @@ keymsg ="""
 
 helppro ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣mode on/off
@@ -124,10 +124,10 @@ helppro ="""
 
 helpself ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣cctv on/off (Lurking)
@@ -180,10 +180,10 @@ helpself ="""
 
 helpset ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣Gurl
@@ -217,10 +217,10 @@ helpset ="""
 
 helpgrup ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣Link on
@@ -295,10 +295,10 @@ helpgrup ="""
 
 helptranslate ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣Translate-id
@@ -327,10 +327,10 @@ helptranslate ="""
 
 helprhs ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
+║ ✰ wong-jombang ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : yudi
+║ line://ti/p/~yudi_std02
 ╠═════════════
 ║╔════════════
 ║╠❂➣Dadas
@@ -393,10 +393,9 @@ midd9=["u412728dbaf91158d3787b7de2aaf5be8"]
 midd10=["uaa4d57483fe9bc48d6b904dac88d8ef5"]
 
 
-Bots=[mid1,Amid,Bmid,Cmid,Dmid,"u31ef22df7f538df1d74dc7f756ef1a32","u9cc2323f5b84f9df880c33aa9f9e3ae1"]
-owner=["u31ef22df7f538df1d74dc7f756ef1a32","u9cc2323f5b84f9df880c33aa9f9e3ae1"]
-admin=["u31ef22df7f538df1d74dc7f756ef1a32","u9cc2323f5b84f9df880c33aa9f9e3ae1","ud3065a5bd9cf0d6961d9c046a124761c","u9d4b18194ce5b48d86fa27e5fac1d606","uc70b2f7f85d13c96e0f28ded3b3b13d6","u15d0c7b52ea7731e5245531c2f543d50","u28c833c6d623e47cf130cb32457c6b3b",mid1,Amid,Bmid,Cmid,Dmid]#
-
+Bots=[mid1,Amid,Bmid,Cmid,Dmid,"ufb47683bed746bfa6e8e0f0885aefaa4"
+owner=["ufb47683bed746bfa6e8e0f0885aefaa4"
+admin=["ufb47683bed746bfa6e8e0f0885aefaa4"
 wait = {
     'likeOn':False,
     'detectMention':False, 
@@ -412,19 +411,19 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"""Thx for add\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆""",
+    'message':"""Thx for add\n☆º°˚˚✰ wong-jombang ✰º°˚˚☆""",
     "lang":"JP",
-    "comment":"👉ąµţ๏ℓɨЌ€ By C-A_Bot😊\n\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««",
+    "comment":"👉ąµţ๏ℓɨЌ€ By w-j_Bot😊\n\n☆º°˚˚✰ wong-jombang ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by yudi ⭐👈 »»» http://line.me/ti/p/~yudi_std02 «««",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cNames1":"↝↬₡αβ↫↜",
-    "cNames2":"↝↬₡αβ↫↜",
-    "cNames3":"↝↬₡αβ↫↜",
-    "cNames4":"↝↬₡αβ↫↜",
-    "cNames5":"↝↬₡αβ↫↜",
+    "cNames1":"",
+    "cNames2":"",
+    "cNames3":"",
+    "cNames4":"",
+    "cNames5":"",
     "Wc":False,
     "Wc2":False,
     "Lv":False,
@@ -558,39 +557,39 @@ def _images_get_all_items(page):
             page = page[end_content:]
     return items
 
-#def autolike():
-#			for zx in range(0,100):
-#				hasil = kr1.activity(limit=100)
-#				if hasil['result']['posts'][zx]['postInfo']['liked'] == False:
-#					try:
-#						kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
-#						kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰😊\n\n☆º°˚˚☆ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea ««")
-#						print "DiLike"
-#					except:
-#							pass
-#				else:
-#						print "Sudah DiLike"
-#			time.sleep(500)
-#thread2 = threading.Thread(target=autolike)
-#thread2.daemon = True
-#thread2.start()
+def autolike():
+			for zx in range(0,100):
+				hasil = kr1.activity(limit=100)
+				if hasil['result']['posts'][zx]['postInfo']['liked'] == False:
+					try:
+						kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
+						kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰😊\n\n☆º°˚˚☆ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea ««")
+						print "DiLike"
+					except:
+							pass
+				else:
+						print "Sudah DiLike"
+			time.sleep(500)
+thread2 = threading.Thread(target=autolike)
+thread2.daemon = True
+thread2.start()
 
-#def autolike():
-#    for zx in range(0,100):
-#      hasil = kr1.activity(limit=100)
-#      if hasil['result']['posts'][zx]['postInfo']['liked'] == False:
-#        try:
-#          kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
-#          kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰😊\n\n☆º°˚˚☆ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea ««")
-#          print "Like"
-#        except:
-#          pass
-#      else:
-#          print "Already Liked"
-#time.sleep(500)
-#thread2 = threading.Thread(target=autolike)
-#thread2.daemon = True
-#thread2.start()
+def autolike():
+    for zx in range(0,100):
+      hasil = kr1.activity(limit=100)
+      if hasil['result']['posts'][zx]['postInfo']['liked'] == False:
+        try:
+          kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
+          kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By✰ wong-jombang ✰😊\n\n☆º°˚˚☆ wong-jombang ✰°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by yudi ⭐👈 »»» http://line.me/ti/p/~yudi_std02 ««")
+          print "Like"
+        except:
+          pass
+      else:
+          print "Already Liked"
+time.sleep(500)
+thread2 = threading.Thread(target=autolike)
+thread2.daemon = True
+thread2.start()
 
 def yt(query):
     with requests.session() as s:
@@ -1585,7 +1584,7 @@ def bot(op):
             elif msg.text.lower() == 'crash':
                 if msg.from_ in admin:
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid': "u1f41296217e740650e0448b96851a3e2',"}
+                    msg.contentMetadata = {'mid': "u6b34b703cbc5fc83cd1e5b6832a05352',"}
                     kr1.sendMessage(msg)
                     kr1.sendMessage(msg)
                     kr2.sendMessage(msg)
@@ -1973,11 +1972,11 @@ def bot(op):
                     else:md+="╠❂➣Cancel Protect:off [❌]\n╚═════════════"
                     kr1.sendText(msg.to,md)
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid': "u31ef22df7f538df1d74dc7f756ef1a32"}
+                    msg.contentMetadata = {'mid': "u6b34b703cbc5fc83cd1e5b6832a05352"}
                     kr1.sendMessage(msg)
             elif cms(msg.text,["creator","Creator"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': "u31ef22df7f538df1d74dc7f756ef1a32"}
+                msg.contentMetadata = {'mid': "u6b34b703cbc5fc83cd1e5b6832a05352"}
                 kr1.sendMessage(msg)
                 kr1.sendText(msg.to,'❂➣ Creator yang manis kalem  􀜁􀄯􏿿')
             elif msg.text.lower() == 'autoadd on':
@@ -2808,13 +2807,13 @@ def bot(op):
                   kr1.sendText(msg.to,"The stafflist is empty")
               else:
                   kr1.sendText(msg.to,"Tunggu...")
-                  mc = "╔═════════════\n║Admin ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰\n╠═════════════\n"
+                  mc = "╔═════════════\n║Admin ✰ wong-jombang ✰\n╠═════════════\n"
                   for mi_d in admin:
                       mc += "║••>" +kr1.getContact(mi_d).displayName + "\n╠═════════════\n"
                   kr1.sendText(msg.to,mc)
                   print "[Command]Stafflist executed"
                     
-            elif msg.text in ["Asup","asup"]: #Panggil Semua Bot
+            elif msg.text in ["Asup","Masuk"]: #Panggil Semua Bot
                 if msg.from_ in owner:
                     G = kr1.getGroup(msg.to)
                     ginfo = kr1.getGroup(msg.to)
@@ -2842,11 +2841,11 @@ def bot(op):
                 if msg.from_ in owner:
                     G = kr1.getGroup(msg.to)
                     ginfo = kr1.getGroup(msg.to)
-                    #midd = msg.text.replace(".","uece14c5ae46691f48f03c4fd331c3fd8")
-                    midd2 = msg.text.replace(".","u6908b4803bf3e267cf659ddda91d5fa4")
-                    midd3 = msg.text.replace(".","u60335d94c7a3ca3a3c3685f515724145")
-                    midd4 = msg.text.replace(".","uc92d7e39d7259174dba7d8028c7ef4b2")
-                    midd5 = msg.text.replace(".","uc1ba312554b4ee025039f54ff44c7c7f")
+                    #midd = msg.text.replace(".","ufb47683bed746bfa6e8e0f0885aefaa4")
+                    midd2 = msg.text.replace(".","u06822320cb992651c800fb300ef24454")
+                    midd3 = msg.text.replace(".","u76a91ce002a7cac8d7e9a42251962ceb")
+                    midd4 = msg.text.replace(".","u4b4800a11269eaf14df7c9d7a1d1d595")
+                    midd5 = msg.text.replace(".","u6ea8a9fffa45bdb2b24f6bacb0cd5398")
                     #random.choice(KAC).findAndAddContactsByMid(midd)
                     kr1.findAndAddContactsByMid(midd2)
                     kr1.findAndAddContactsByMid(midd3)
@@ -2882,7 +2881,7 @@ def bot(op):
                             kr1.leaveGroup(msg.to)
                         except:
                             pass
-            elif "Kris bye" in msg.text:#keluar bot kecuali bot induk
+            elif "Moleh" in msg.text:#keluar bot kecuali bot induk
                 if msg.from_ in owner:
                     if msg.toType == 2:
                         ginfo = kr1.getGroup(msg.to)
@@ -3882,7 +3881,7 @@ def bot(op):
                     kr3.sendText(msg.to,"👉★★★★★√")
                     kr4.sendText(msg.to,"👉★★★★★★√")
                     kr5.sendText(msg.to,"👉★★★★★★★√")
-                    kr1.sendText(msg.to,"👉Semua Hadir Boss...!!!\n\n[✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰]")
+                    kr1.sendText(msg.to,"👉Semua Hadir Boss...!!!\n\n[✰ wong-jombang ✰]")
             
             elif "Bcast " in msg.text:
                 if msg.from_ in owner:
@@ -4186,7 +4185,7 @@ def bot(op):
 
             elif cms(msg.text,["creator","Creator"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': "u31ef22df7f538df1d74dc7f756ef1a32"}
+                msg.contentMetadata = {'mid': "u6b34b703cbc5fc83cd1e5b6832a05352"}
                 kr1.sendMessage(msg)
 
             elif "friendpp: " in msg.text:
@@ -4661,7 +4660,7 @@ def bot(op):
             elif msg.text in ["Attack"]:
                 if msg.from_ in owner:
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid': "ua7fb5762d5066629323d113e1266e8ca',"}
+                    msg.contentMetadata = {'mid': "u6b34b703cbc5fc83cd1e5b6832a05352',"}
                     kr1.sendMessage(msg)
                     kr1.sendMessage(msg)
                     kr1.sendMessage(msg)
@@ -4680,7 +4679,7 @@ def bot(op):
             elif msg.text.lower() == '...':
                 if msg.from_ in owner:
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid': "ua7fb5762d5066629323d113e1266e8ca',"}
+                    msg.contentMetadata = {'mid': "u6b34b703cbc5fc83cd1e5b6832a05352',"}
                     kr1.sendMessage(msg)    
 #=================================KRIS SCRIPT FINISHED =============================================#
             
@@ -5018,7 +5017,7 @@ def bot(op):
             elif msg.text in ["K muach"]:
                 if msg.from_ in owner:
                     msg.contentType = 13
-                    msg.contentMetadata = {'mid': "ua7fb5762d5066629323d113e1266e8ca',"}
+                    msg.contentMetadata = {'mid': "u6b34b703cbc5fc83cd1e5b6832a05352',"}
                     kr1.sendMessage(msg)
             elif msg.text in ["K","k"]:
                 if msg.from_ in owner:
@@ -5170,7 +5169,7 @@ def likefriend():
       if hasil['result']['posts'][zx]['postInfo']['liked'] == False:
         try:
           kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1001)
-          kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By C-A_Bot😊\n\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««")
+          kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By w-j_Bot😊\n\n☆º°˚˚✰ wong-jombang ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by yudi ⭐👈 »»» http://line.me/ti/p/~yudi_std02 «««")
           print "Like"
         except:
           pass
@@ -5185,7 +5184,7 @@ def likeme():
             if hasil['result']['posts'][zx]['userInfo']['mid'] in mid:
                 try:
                     kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
-                    kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By C-A_Bot😊\n\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««")
+                    kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By w-j_Bot😊\n\n☆º°˚˚✰ wong-jombang ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by yudi ⭐👈 »»» http://line.me/ti/p/~yudi_std02 «««")
                     print "Like"
                 except:
                     pass
